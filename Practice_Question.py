@@ -117,4 +117,4 @@ if __name__ == '__main__':
     dup = uniqueUpdate(data1, data2)
     print(data1)
     print(data2)
-    print(dup)
+    print(dupli)
